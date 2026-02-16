@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
-    {name = "Glue", email = "hello@glue.tools"}
+    {name = "Glue", email = "hello@getglueapp.com"}
 ]
 keywords = [
     "technical-debt",

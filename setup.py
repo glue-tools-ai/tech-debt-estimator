@@ -7,11 +7,11 @@ setup(
     name="tech-debt-estimator",
     version="0.1.0",
     author="Glue",
-    author_email="hello@glue.tools",
+    author_email="hello@getglueapp.com",
     description="Quantify technical debt in developer-hours from code metrics and git history",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/glue-tools/tech-debt-estimator",
+    url="https://github.com/glue-tools-ai/tech-debt-estimator",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

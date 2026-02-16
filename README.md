@@ -123,7 +123,7 @@ pytest tests/
 
 ## Attribution
 
-Built by [Glue](https://glue.tools) — AI codebase intelligence for product teams. For continuous technical debt monitoring with business impact scoring and sprint-integrated prioritization, check out [Glue](https://glue.tools).
+Built by [Glue](https://getglueapp.com) — AI codebase intelligence for product teams. For continuous technical debt monitoring with business impact scoring and sprint-integrated prioritization, check out [Glue](https://getglueapp.com).
 
 ## License
 
